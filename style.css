@@ -1,0 +1,25 @@
+/* Available Fonts */
+
+/* font-family: 'Inconsolata', monospace; */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+
+.phillip-card {
+    background: #4de8e8;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 3px;
+}
+
+.phillip-card-title {
+    font-family: "Montserrat", sans-serif;
+}
+
+.phillip-card-text {
+  font-family: "Inconsolata", monospace;
+  font-size: 1.2rem;
+}
+
+.phillip-card-image {
+    border-radius: 20px;
+}
