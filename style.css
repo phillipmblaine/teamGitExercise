@@ -1,23 +1,56 @@
+/* phillip branch edits */
+/* Available Fonts */
+
+/* font-family: 'Inconsolata', monospace; */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+
+.phillip-card {
+    background: #4de8e8;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 3px;
+}
+
+.phillip-card-title {
+    font-family: "Montserrat", sans-serif;
+}
+
+.phillip-card-text {
+  font-family: "Inconsolata", monospace;
+  font-size: 1.2rem;
+}
+
+.phillip-card-image {
+    border-radius: 20px;
+}
+
+/* end phillip branch edits */
+
 body {
 	background-color: yellow;
 }
+
 .jumbotron {
 	background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b3dc23-d105-48da-a0d3-71e69f2c0b5c/dcswlpf-5df504f6-4c14-4e77-9ae2-a7767c32acf9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzRiM2RjMjMtZDEwNS00OGRhLWEwZDMtNzFlNjlmMmMwYjVjXC9kY3N3bHBmLTVkZjUwNGY2LTRjMTQtNGU3Ny05YWUyLWE3NzY3YzMyYWNmOS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.56XObL-pHQGmS3o4Cf74ZqUyCkZtiBoXP8YNevWV2c0");
 	background-size: cover;
 	height: 400px;
 }
+
 .display-4 {
 	text-align: right;
 	font-size: 10vh;
 	text-shadow: 2px 2px #7e717194;
 	text-shadow: 2px 2px #f1f1f1;
 }
+
 .jumbo-motto {
 	margin-top: 6%;
 	text-align: right;
 	font-size: 3vh;
 	text-shadow: 2px 2px #2f1a1a59;
 }
+
 .cris {
 	background-color: rgba(0, 0, 255, 0.671);
 }
